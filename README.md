@@ -14,7 +14,7 @@ Agradeço pela sua visita ao meu perfil. Juntos, vamos construir uma tecnologia 
 
 ### Agradecimentos
 
-Quero agradecer ao [@JONATHAS-L1M4](https://github.com/JONATHAS-L1M4), que fez parte deste projeto e deu alguns conselhos e orientações.
+Quero agradecer ao [@JONATHAS-L1M4](https://github.com/JONATHAS-L1M4), que fez parte deste projeto e deu alguns conselhos e orientações e ajudou no desenvolmeento do proejto.
 
 ---
 
