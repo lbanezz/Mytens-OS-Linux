@@ -17,6 +17,7 @@ Agradeço pela sua visita ao meu perfil. Juntos, vamos construir uma tecnologia 
 Quero agradecer ao [@JONATHAS-L1M4](https://github.com/JONATHAS-L1M4), que fez parte deste projeto e deu alguns conselhos e orientações e ajudou no desenvolmeento do proejto.
 
 E também ao [Mini-OS](https://github.com/minios-linux/minios-live/wiki?lang=pt) onde disponibilizaram a documentação e apoio, ás imagens deles estão também dentro do sistema.
+
 ---
 
 ### Download da ISO
