@@ -2,7 +2,7 @@
 
 Seja muito bem-vindo ao melhor sistema Linux!
 
-Um sistema **open source**!
+Um sistema **open source**! 
 
 O sistema conta com uma interface leve e agradável, onde você, usuário, pode personalizá-lo do seu jeito. Ele já vem com o **Python** instalado e algumas aplicações úteis. Este sistema receberá atualizações e novas ferramentas de acordo com o andamento do projeto.
 
@@ -16,6 +16,7 @@ Agradeço pela sua visita ao meu perfil. Juntos, vamos construir uma tecnologia 
 
 Quero agradecer ao [@JONATHAS-L1M4](https://github.com/JONATHAS-L1M4), que fez parte deste projeto e deu alguns conselhos e orientações e ajudou no desenvolmeento do proejto.
 
+E também ao [Mini-OS](https://github.com/minios-linux/minios-live/wiki?lang=pt) onde disponibilizaram a documentação e apoio, ás imagens deles estão também dentro do sistema.
 ---
 
 ### Download da ISO
