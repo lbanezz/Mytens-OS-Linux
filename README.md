@@ -7,7 +7,7 @@ O sistema conta com uma interface leve e agradável, onde você, usuário, pode 
 
 Quero agradecer ao @jonathas-lim4, que fez parte deste projeto e deu alguns conselhos e orientações.
 
-Se você deseja colaboradora com nós deixe sua doação
+Se você deseja colaboradora com nós deixe sua doação para a continuação do projeto.
 via paypal: mytensweb@gmail.com
 
 <img src="./img/MYTENS-OS LINUX.png">
