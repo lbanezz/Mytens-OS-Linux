@@ -11,5 +11,5 @@ ISO do sistema: https://mega.nz/file/d8wVUajB#Sj7s1KBtVQzUmoBxu6IaFhW4TZ5A1SidZ-
 
 <img src="./img/MYTENS-OS LINUX.png">
 <img src="./img/MYTENS.png">
-Se você deseja colaboradora com nós deixe sua doação para a continuação do projeto.
+Se você deseja colaboradora com nós deixe sua doação para a continuação do projeto
 via paypal: mytensweb@gmail.com
