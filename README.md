@@ -5,7 +5,7 @@ Um sistema opensource!
 
 O sistema conta com uma interface leve e agradável, onde você, usuário, pode personalizá-lo do seu jeito. Ele já vem com o Python instalado e algumas aplicações. Esse sistema receberá atualizações e novas ferramentas de acordo com o andamento do projeto. Esta é apenas a versão 1.0 da Mytens; aos poucos, o sistema ganhará mais funcionalidades. O sistema já vem com o antivirus Clamav instalado quero agradecer por sua visitaq aqui em meu perfil e juntos vamos construir uma tecnologia inovadora para indústria e para o mundo.
 
-Quero agradecer ao @jonathas-lim4, que fez parte deste projeto e deu alguns conselhos e orientações.
+Quero agradecer ao @JONATHAS-L1M4, que fez parte deste projeto e deu alguns conselhos e orientações.
 
 
 
